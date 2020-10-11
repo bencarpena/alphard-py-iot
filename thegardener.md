@@ -1,5 +1,5 @@
 # the gardener project
->High Voltage at Ch0 = Dry conditions
+>High Voltage at Ch0 = Wet conditions
 
 ### Initial Setup
 - Reference: https://www.switchdoc.com/2020/06/tutorial-capacitive-moisture-sensor-grove/
