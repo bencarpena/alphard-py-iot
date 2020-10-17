@@ -11,8 +11,8 @@ Source codes:
 * The gardener project codes with Furion protocols : https://github.com/bencarpena/alphard-py-iot/blob/main/thegardener.py
 
 Minimum Viable Product (MVP) POC :
-![Solution Architecture](https://github.com/bencarpena/alphard-py-iot/blob/main/solarch.jpg)
-![MVP and POC Setup](https://github.com/bencarpena/alphard-py-iot/blob/main/mvp-setup.jpg)
+![Solution Architecture](https://github.com/bencarpena/alphard-py-iot/blob/main/solarch.png)
+![MVP and POC Setup](https://github.com/bencarpena/alphard-py-iot/blob/main/mvp-setup.png)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201016_235052.jpg)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201016_235119.jpg)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201017_123705.jpg)
