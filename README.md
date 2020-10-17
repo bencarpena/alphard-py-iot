@@ -11,11 +11,11 @@ Source codes:
 * The gardener project codes with Furion protocols : https://github.com/bencarpena/alphard-py-iot/blob/main/thegardener.py
 
 Minimum Viable Product (MVP) POC :
-![Solution Architecture](https://github.com/bencarpena/alphard-py-iot/blob/_contents/solarch.png)
+![Solution Architecture](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/solarch.png)
 ![MVP and POC Setup](https://github.com/bencarpena/alphard-py-iot/blob/_contents/mvp-setup.png)
-![](https://github.com/bencarpena/alphard-py-iot/blob/_contents/20201016_235052.jpg)
-![](https://github.com/bencarpena/alphard-py-iot/blob/_contents/20201016_235119.jpg)
-![](https://github.com/bencarpena/alphard-py-iot/blob/_contents/20201017_123705.jpg)
-![](https://github.com/bencarpena/alphard-py-iot/blob/_contents/20201017_123550.jpg)
-![](https://github.com/bencarpena/alphard-py-iot/blob/_contents/20201017_123716.jpg)
-![](https://github.com/bencarpena/alphard-py-iot/blob/_contents/20201017_124512.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201016_235052.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201016_235119.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201017_123705.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201017_123550.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201017_123716.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201017_124512.jpg)
