@@ -13,6 +13,7 @@ Source codes:
 Minimum Viable Product (MVP) POC :
 ![Solution Architecture](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/solarch.png)
 ![MVP and POC Setup](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/mvp-setup.png)
+![Data Collection](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/slack-data-collection.png)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201016_235052.jpg)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201016_235119.jpg)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/_contents/20201017_123705.jpg)
