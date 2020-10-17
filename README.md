@@ -13,3 +13,7 @@ Source codes:
 Minimum Viable Product (MVP) POC :
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201016_235052.jpg)
 ![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201016_235119.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201017_123705.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201017_123550.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201017_123716.jpg)
+![](https://github.com/bencarpena/alphard-py-iot/blob/main/20201017_124512.jpg)
