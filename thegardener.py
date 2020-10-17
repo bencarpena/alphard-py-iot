@@ -76,7 +76,7 @@ GPIO.setup(signal_pin, GPIO.OUT)
 
 
 def start_hydrate_furion():
-    GPIO.output(4, GPIO.LOW)
+    GPIO.output(signal_pin, GPIO.LOW)
     print ("[INFO] : Watering Furion now!") #turn on water pump
     time.sleep(3.75)
 
@@ -116,9 +116,7 @@ try:
 	#processing data and sensor readings -------------
 	if int(sensor_readings[-1]) > 17500:
 		start_hydrate_furion()
-		GPIO.cleanup()
 		stop_hydrate_furion()
-		GPIO.cleanup()
 		dtstamp = datetime.now()
 		slack_msg = {'text' : 'alphard (the_gardener) | ' + str(dtstamp) + " | Furion protocol initiated!"}
 		requests.post(webhook_url, data=json.dumps(slack_msg))
