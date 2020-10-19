@@ -87,9 +87,7 @@ def stop_hydrate_furion():
 
 def clean_up_routine():
 	GPIO.output(signal_pin, GPIO.HIGH) #turn off water pump
-	slack_msg = {'text' : 'alphard (the_gardener) : Exception occurred! ' + str(datetime.now())}
-	requests.post(webhook_url, data=json.dumps(slack_msg))
-	GPIO.cleanup()
+	print ("[INFO] : Shutting down water pumps") 
 
 try:
 	#main subroutines
@@ -125,6 +123,8 @@ try:
 
 except:
 	clean_up_routine()
+	slack_msg = {'text' : 'alphard (the_gardener) : Exception occurred! ' + str(datetime.now())}
+	requests.post(webhook_url, data=json.dumps(slack_msg))
 	os.execv(__file__, sys.argv) # Heal process and restart
 finally:
    print("System " + str(datetime.now()) + " : Cleaning up GPIOs. Furion protocols invoked.") 
