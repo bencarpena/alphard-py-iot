@@ -229,6 +229,11 @@ except:
 	#clean_up_subroutine()
 	slack_msg = {'text' : 'alphard (the_gardener | iot/g01) : Exception occurred! ' + str(datetime.now())}
 	requests.post(webhook_url, data=json.dumps(slack_msg))
+	
+	#Catch and display exception
+	_exception = sys.exc_info()[0]
+	print(_exception)
+
 	os.execv(__file__, sys.argv) # Heal process and restart
 finally:
    print("System " + str(datetime.now()) + " : Cleaning up GPIOs.") 
